@@ -27,13 +27,15 @@
 - Proficient in Python programming language
 - Skilled in OOP concepts and design patterns
 - Experienced in Data Structures and Algorithms
-- Currently learning C++ and Java programming languages
+- Currently learning C++ and Kotlin programming languages
+- I'm on an exciting journey into the world of machine learning and applying them to real-world projects.
 - Knowledgeable in discrete mathematics and its applications in computer science
+- I'm honing my Python skills through various projects and exploring different libraries to enhance my proficiency.
 - Passionate about coding and working on challenging projects
 - Enthusiastic learner and always eager to explore new technologies
 
 ### My Interests :bulb:
-Right now, I'm working on improving my knowledge of Python, C++ and Java, and experimenting with new coding projects to challenge myself. I also enjoy exploring new technologies and tools that can help me become a better programmer. I'm also interested in exploring different programming languages and technologies.:books:
+Right now, I'm working on improving my knowledge of Python, C++ and Kotlin, and experimenting with new coding projects to challenge myself. I also enjoy exploring new technologies and tools that can help me become a better programmer. I'm also interested in exploring different programming languages and technologies.:books:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
