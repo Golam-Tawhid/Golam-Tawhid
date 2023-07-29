@@ -35,7 +35,7 @@
 - Enthusiastic learner and always eager to explore new technologies
 
 ### My Interests :bulb:
-Right now, I'm working on improving my knowledge of Python, C++ and Kotlin, and experimenting with new coding projects to challenge myself. I also enjoy exploring new technologies and tools that can help me become a better programmer. I'm also interested in exploring different programming languages and technologies.:books:
+Right now, I'm working on improving my knowledge of Python, C++, Kotlin and Machine Learning. I'm experimenting with new coding projects to enhance my proficiency. I also enjoy exploring new technologies and tools that can help me become a better programmer. I'm also interested in exploring different programming languages and technologies.:books:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
