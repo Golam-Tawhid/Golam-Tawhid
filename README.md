@@ -19,21 +19,26 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=Golam-Tawhid&style=flat-square&color=blue" alt=""/>
 </div>
 
----
-## About me :mag:
-:school: I'm a Computer Science student at BRAC University.
-- Proficient in Python programming language
-- Skilled in OOP concepts and design patterns
-- Experienced in Data Structures and Algorithms
-- Currently learning C++ and JavaScript programming language
-- Currently on an exciting journey into the world of machine learning
-- Honing my Python skills through various projects and exploring different libraries
-- Knowledgeable in discrete mathematics and its applications in computer science
-- Passionate about coding and working on challenging projects
-- Enthusiastic learner and always eager to explore new technologies
+<h2>About Me 🔍</h2>
+<p>🎓 I'm a <strong>Computer Science student</strong> at BRAC University.</p>
+<ul>
+  <li>💻 Proficient in <strong>Python</strong> and <strong>Object-Oriented Programming</strong></li>
+  <li>⚙️ Skilled in <strong>Data Structures</strong>, <strong>Algorithms</strong>, and <strong>Database Systems</strong></li>
+  <li>🖥️ Experienced in <strong>Operating Systems</strong> and <strong>Computer Architecture</strong></li>
+  <li>🎨 Knowledgeable in <strong>Computer Graphics</strong> and <strong>Machine Vision</strong></li>
+  <li>🤖 Exploring <strong>Artificial Intelligence</strong> and <strong>Natural Language Processing</strong></li>
+  <li>🔧 Building skills in <strong>Software Engineering</strong> and <strong>System Analysis and Design</strong></li>
+  <li>🔐 Learning advanced topics in <strong>Blockchain</strong>, <strong>Cryptocurrencies</strong>, and <strong>Ethical Hacking</strong></li>
+</ul>
 
-### My Interests :bulb:
-Right now, I'm working on improving my knowledge of Python, C++, Javascript and Machine Learning. I'm experimenting with new coding projects to enhance my proficiency. I also enjoy exploring new technologies and tools that can help me become a better programmer. I'm also interested in exploring different programming languages and technologies.:books:
+<h2>Passionate About 🔥</h2>
+<p>
+  I am deeply passionate about leveraging my skills to solve complex problems in Artificial Intelligence, Machine Vision, and Software Development.  
+  I enjoy designing efficient systems, working with emerging technologies like Blockchain, and exploring innovative ways to enhance human-computer interaction.  
+  Currently, I’m focused on enhancing my expertise in Python, software development, and emerging technologies. 
+  My goal is to contribute to innovative solutions and impactful projects while continuously learning and growing.
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
